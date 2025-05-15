@@ -10,3 +10,12 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+.relative-list {
+  padding-left: 20px;
+}
+
+.relative-item {
+  margin: 8px 0;
+  font-size: 18px;
+}
